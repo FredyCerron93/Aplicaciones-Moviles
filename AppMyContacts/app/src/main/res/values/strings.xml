@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMyContacts</string>
+    <string name="hint_name">Ingrese Nombre</string>
+    <string name="hint_telephone">Ingrese Telefono</string>
+    <string name="item_guardar">Guardar</string>
+    <string name="item_add">Nuevo</string>
+</resources>
